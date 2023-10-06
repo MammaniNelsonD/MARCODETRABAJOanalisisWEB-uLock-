@@ -23,27 +23,35 @@
 
 4.4 [Authentication Testing](04-Authentication_Testing/README.md)
 ---------------------------------------------------------------
+![contraseña-insegura](https://github.com/MammaniNelsonD/MARCODETRABAJOanalisisWEB-uLock-/assets/114308492/4bad42d6-0057-4607-a6fe-95d051caf2f6)
 
 4.5 [Authorization Testing](05-Authorization_Testing/README.md)
 ---------------------------------------------------------------
+![OIG18](https://github.com/MammaniNelsonD/MARCODETRABAJOanalisisWEB-uLock-/assets/114308492/e8c712e5-5216-4ab1-ba70-1f8417095a80)
 
 4.6 [Session Management Testing](06-Session_Management_Testing/README.md)
 ---------------------------------------------------------------
+![OIG21](https://github.com/MammaniNelsonD/MARCODETRABAJOanalisisWEB-uLock-/assets/114308492/776b855e-3f68-4914-8da3-0f8f905046a5)
 
 4.7 [Input Validation Testing](07-Input_Validation_Testing/README.md)
 ---------------------------------------------------------------
- 
+ ![photo_4970213542108179371_y (1)](https://github.com/MammaniNelsonD/MARCODETRABAJOanalisisWEB-uLock-/assets/114308492/1546c5fd-e1db-43bb-93c6-6d9c34766406)
+
 4.8 [Testing for Error Handling](08-Testing_for_Error_Handling/README.md)
 ---------------------------------------------------------------
+![synack-OWASP-top-10-blog-3 (1)](https://github.com/MammaniNelsonD/MARCODETRABAJOanalisisWEB-uLock-/assets/114308492/9f1666a9-63f5-4281-8c12-045ebba13b35)
 
 4.9 [Testing for Weak Cryptography](09-Testing_for_Weak_Cryptography/README.md)
 ---------------------------------------------------------------
+![business-logic-in-qa](https://github.com/MammaniNelsonD/MARCODETRABAJOanalisisWEB-uLock-/assets/114308492/5f118a18-ffc7-4fa2-93c7-45c032af23b9)
 
 4.10 [Business Logic Testing](10-Business_Logic_Testing/README.md)
 ---------------------------------------------------------------
+![Leonardo_Diffusion_Clientside_Testing_0](https://github.com/MammaniNelsonD/MARCODETRABAJOanalisisWEB-uLock-/assets/114308492/163aed78-27b2-4e71-ae5c-1e9b912a4678)
 
 4.11 [Client-side Testing](11-Client-side_Testing/README.md)
 ---------------------------------------------------------------
+![1655329582555](https://github.com/MammaniNelsonD/MARCODETRABAJOanalisisWEB-uLock-/assets/114308492/7bb0f203-912b-4239-9e4c-1e72c9019aa9)
 
 4.12 [API Testing](12-API_Testing/README.md)
 ---------------------------------------------------------------
